@@ -69,3 +69,5 @@ const calculateWeight = (earthWeight, planet) =>
 // testing the function
 console.log(calculateWeight(100, 'Mercury'));
 
+//test
+
