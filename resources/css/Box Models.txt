@@ -1,0 +1,11 @@
+Box Models:
+
+Comprises froma set of properties used to create space around and between HTML Elements.
+
+The height and width of a content area can be set in pixels or percentage.
+
+Borders surround the content area and padding of an element. The color, style, and tickeness of a border can be set with CSS properties.
+
+Padding is the space between the content area and the border. It can be set in pixals or percent.
+
+Margin is the amount of spacing outside of an element's border.
