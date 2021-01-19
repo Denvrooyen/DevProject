@@ -1,0 +1,52 @@
+.container {
+    display: grid;
+    grid-area: 13/ 2; 
+}
+
+.header {
+    display:grid; 
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight:bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+    grid-column: 1 / 2 ;
+    grid-row: 1 / 2;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+ 
+.product-heading {
+    font-family: Helvetica;;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+} 
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
+.product-item-header {
+    font-weight:bold;
+}
+
+.product-description {
+    font-weight: normal;
+}
+
+.product-price {
+    font-family: Helvetica;
+    font-weight:bold;
+    color: blue ;
+}
